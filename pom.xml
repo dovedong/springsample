@@ -14,6 +14,12 @@
     <name>springsample</name>
     <description>Demo project for Spring Boot</description>
 
+    <modules>
+        <module>annotest</module>
+        <module>javademo</module>
+        <module>akkademo</module>
+    </modules>
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
